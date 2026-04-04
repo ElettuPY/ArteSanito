@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,700;1,700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Outfit", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", serif;
+  
+  --color-brand-red: #8B0000;
+  --color-brand-brown: #4b2c20;
+  --color-brand-cream: #FFFDF5;
+}
+
+@layer base {
+  body {
+    @apply bg-brand-cream text-stone-900 font-sans;
+  }
+  
+  h1, h2, h3 {
+    @apply font-serif;
+  }
+}
+
+.bg-texture {
+  background-image: url("https://www.transparenttextures.com/patterns/paper-fibers.png");
+}
