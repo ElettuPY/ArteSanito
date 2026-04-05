@@ -45,14 +45,14 @@ const products = [
     description: "Lista para cocinar, sabor profundo y casero",
     price: "Consultar precio",
     options: "Piezas enteras o trozos",
-    image: "/public/images/panceta-cocida.jpeg"
+    image: "/images/panceta-cocida.jpeg"
   },
   {
     name: "Panceta Ahumada",
     description: "Ahumado artesanal que realza cualquier comida",
     price: "Consultar precio",
     options: "Ahumado natural",
-    image: "/images/panceta-ahumada.jpg"
+    image: "/images/panceta-ahumada.jpeg"
   }
 ];
 
