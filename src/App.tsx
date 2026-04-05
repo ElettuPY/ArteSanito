@@ -24,28 +24,28 @@ const products = [
     description: "Ligero, sabroso y perfecto para cualquier asado",
     price: "35.000 Gs/Kg",
     options: "Con o sin picante",
-    image: "/images/pollo.jpg"
+    image: "/images/pollo.jpeg"
   },
   {
     name: "Chorizo de Chancho",
     description: "Sabor intenso y jugoso, el favorito de muchos",
     price: "40.000 Gs/Kg",
     options: "Con o sin picante",
-    image: "/images/chancho.jpg"
+    image: "/images/chancho.jpeg"
   },
   {
     name: "Chorizo de Vaca",
     description: "Perfil más firme y tradicional, ideal para parrilla",
     price: "45.000 Gs/Kg",
     options: "Con o sin picante",
-    image: "/images/vaca.jpg"
+    image: "/images/vaca.jpeg"
   },
   {
     name: "Panceta Cocida",
     description: "Lista para cocinar, sabor profundo y casero",
     price: "Consultar precio",
     options: "Piezas enteras o trozos",
-    image: "/images/panceta-cocida.jpg"
+    image: "/public/images/panceta-cocida.jpeg"
   },
   {
     name: "Panceta Ahumada",

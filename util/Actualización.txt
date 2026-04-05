@@ -1,3 +1,5 @@
+cd "C:\Users\renzo\Downloads\artesanito---chorizos-artesanales"
+git status
 git add .
 git commit -m "Cambio de título a ArteSanito"
 git push
